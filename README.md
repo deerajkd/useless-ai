@@ -2,34 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# USELESS AI 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Broz
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: DEERAJ K D - SNM INSTITUTE OF MANAGEMENT AND TECHNOLOGY
+- Member 2: ABHIJITH K V - SNM INSTITUTE OF MANAGEMENT AND TECHNOLOGY
 
 ### Project Description
-[2-3 lines about what your project does]
+Useless AI is a fun chatbot that uses artificial intelligence to generate intentionally useless, funny, and absurd responses to user questions. It turns normal conversations into entertaining interactions through different uselessness modes and a Uselessness Score.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are becoming too productive by getting useful answers from AI. There is a serious lack of AI systems that waste time, give pointless answers, and accomplish absolutely nothing. Useless AI solves this completely unnecessary problem.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Useless AI provides intentionally pointless, funny, and absurd answers to everyday questions. It transforms unnecessary questions into unnecessary answers, giving users a fun way to waste time and achieve absolutely nothing.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- TypeScript,JavaScript,HTML,CSS,React,Tailwind CSS.
+- React,Vite,Express.js,Tailwind CSS.
+- React,Lucide React ,React DOM,Google Gemini AI SDK,Tailwind CSS .
+- Visual Studio Code,Node.js & npm,Vite,Git/GitHub.
 
 For Hardware:
 - [List main components]
