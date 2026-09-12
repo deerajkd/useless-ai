@@ -84,7 +84,7 @@ For Hardware:
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1eNym5URvRmXCRnC2CtMyS5ywhDG5Dwvm/view?usp=drive_link]
-*Explain what the video demonstrates*
+*This video demonstrates the working of our Useless AI application. It shows how the user enters a question, selects a useless AI mode, receives an intentionally funny and unhelpful response, and uses different controls to make the response even more useless. The video also demonstrates features such as the uselessness score, statistics, and interactive buttons.*
 
 # Additional Demos
 [Add any extra demo materials/links]
