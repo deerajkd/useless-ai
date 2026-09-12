@@ -1,0 +1,6 @@
+{
+  "name": "USELESS AI 🤖",
+  "description": "The world's least useful AI. An intentionally absurd, sarcastic, and unnecessarily complicated conversational companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
