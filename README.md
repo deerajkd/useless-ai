@@ -38,20 +38,22 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install,npm run dev.
 
 # Run
-[commands]
+npm install,npm run dev,npm run server,npm run dev.
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1473" height="697" alt="Screenshot 2026-09-12 085541" src="https://github.com/user-attachments/assets/408694f6-8b2a-47cf-9529-b260d714330f" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*This screen shows the main interface of the Useless AI application. It displays different useless AI modes such as Random Useless, Overthinking, Sarcasm, and Completely Wrong. The user can enter questions and receive intentionally funny and unhelpful responses. It also includes pointless action controls, uselessness score, quote of the day, chat history, and live statistics such as questions asked, time wasted, and brain cells lost.*
+
+<img width="1432" height="703" alt="Screenshot 2026-09-12 085659" src="https://github.com/user-attachments/assets/a2026e08-c4c5-4e2e-b2f5-460adc377f98" />
+
+*This screen shows the Useless AI responding to a user’s question with an intentionally humorous and useless answer. It displays the uselessness score, along with live statistics such as questions asked, useless answers, time wasted, brain cells lost, and net productivity. The interface also includes options to make the response more useless, overthink it, or make it worse, as well as a Mini Challenge to test the user’s level of uselessness.*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -81,16 +83,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1eNym5URvRmXCRnC2CtMyS5ywhDG5Dwvm/view?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- DEERAJ K D : I mainly worked on the frontend part. I designed the user interface, chatbot screen, buttons, AI modes, and responsive layout.
+- ABHIJITH K V :I mainly worked on the AI and backend part. I integrated Gemini AI, implemented the different response modes, handled API communication, and tested the AI functionality.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
